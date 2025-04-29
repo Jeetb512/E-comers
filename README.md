@@ -44,7 +44,7 @@ _Add screenshots here if available_
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/ecommerce-app.git
+git clone https://github.com/Jeetb512/E-comers.git
 
 # Navigate to the project folder
 cd ecommerce-app
